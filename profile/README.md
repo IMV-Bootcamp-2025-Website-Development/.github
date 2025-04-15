@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Mgodongf Banner](/profile/assets/banner.png)
+
 <!--
 
 **Here are some ideas to get you started:**
